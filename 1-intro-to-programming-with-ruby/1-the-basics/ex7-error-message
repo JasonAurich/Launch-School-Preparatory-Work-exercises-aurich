@@ -1,0 +1,2 @@
+# It's saying where there's a closing parathesis, there should be a closing curly brace.
+# So, somewhere there's an opening curly brace without a partner.
