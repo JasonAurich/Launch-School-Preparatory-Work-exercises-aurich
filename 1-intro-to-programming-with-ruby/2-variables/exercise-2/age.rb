@@ -1,3 +1,4 @@
+puts "\e[H\e[2J"
 puts "Hi. May I ask your age, please?"
 @age = gets.chomp.to_i
 
