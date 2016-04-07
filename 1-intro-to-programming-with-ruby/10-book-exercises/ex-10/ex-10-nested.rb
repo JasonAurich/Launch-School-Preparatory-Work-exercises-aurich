@@ -1,3 +1,4 @@
+# Yes and yes.
 # array of hashes
 abc1 = [
   {aleph:  "alpha"},
